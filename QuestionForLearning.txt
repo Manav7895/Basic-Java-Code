@@ -1,0 +1,39 @@
+Primitive Data Types
+Question 1 - Write a program to declare and initialize variables of all primitive data types (int, long, float, double, char, boolean, etc.) and print their values.
+
+If-Else Statement
+Question 2 - Write a program that takes an integer input and checks whether it is positive, negative, or zero using an if-else statement.
+
+If-Else-If Ladder
+Question 3- Write a program to take marks as input and print the grade based on the following criteria:
+
+Marks >= 90: Grade A
+Marks >= 80: Grade B
+Marks >= 70: Grade C
+Marks < 70: Fail
+
+Nested If-Else
+Question 4- Write a program that takes a number as input and checks if it is even. If the number is even, check if it is also divisible by 4.
+
+Switch Statement
+Question 5 - Write a program that takes a day number (1 for Monday, 2 for Tuesday, etc.) and prints the corresponding day name using a switch statement.
+
+For Loop Questions
+Print Numbers
+Question 6- Write a program to print numbers from 1 to 10 using a for loop.
+
+Multiplication Table
+Question 7  -Write a program to print the multiplication table of a number (e.g., 5) using a for loop.
+
+Sum of Natural Numbers
+Question 8 - Write a program to calculate the sum of the first 10 natural numbers (1 to 10) using a while loop.
+
+Count Digits
+Question 9- Write a program to count the number of digits in a given number (e.g., 12345) using a while loop.
+
+Do-While Loop Questions
+Print Numbers
+Question 10- Write a program to print numbers from 1 to 10 using a do-while loop.
+
+User Input Until Condition
+Question 12- Write a program that repeatedly asks the user to enter a number until they input a negative number using a do-while loop.
